@@ -7,7 +7,8 @@
 -  JavaScript ![JavaScript](https://img.icons8.com/color/25/000000/javascript.png)  
 - React.js ![React](https://img.icons8.com/color/25/000000/react-native.png)
   
- About Me
+📌 About Me
+ 
 ✨ Currently pursuing IT in college.
 
 🚀 Skilled in **HTML, CSS, Java, JavaScript, and React.js.
@@ -18,6 +19,8 @@
 
 🌐 Connect with Me
 
-📧Email:kshamameena533@gmail.com  
+.📧Email:kshamameena533@gmail.com  
 
-💼LinkedIn: www.linkedin.com/in/kshama-meena
+.💼LinkedIn: www.linkedin.com/in/kshama-meena
+
+.💻GitHub:https://github.com/Kshama-Meena
