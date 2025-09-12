@@ -15,7 +15,7 @@
 
 🚀 Skilled in **HTML, CSS, Java, JavaScript, and React.js.
 
-📖 Learning step by step to become a Full-Stack Developer.
+📖 Learning step by step to become a MERN-Stack Developer.
 
 🤝 Open to collaboration on beginner-friendly projects.
 
